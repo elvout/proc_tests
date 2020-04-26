@@ -1,0 +1,16 @@
+
+Makefile
+*.v
+cpu
+single_cycle
+
+*.hex
+*.out
+*.raw
+*.result
+*.cycles
+
+*.vcd
+*.gtkw
+
+__pycache__
